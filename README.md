@@ -4,7 +4,7 @@
                    
 		   
 
-|![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)|
+
 
 |![images (7)](https://user-images.githubusercontent.com/104608815/168705069-aa8b2cb7-12bf-4b2b-8801-3945b9e11084.jpeg)|
 
@@ -139,10 +139,8 @@ There are several ways to encode literals of the string data type in a query tex
 
 Enclose the string in double-quotes
 					      (
-					     [ ]÷"): "This is a string literal. Single quote characters (') don't require escaping. Double quote characters (\ -d
-					     [ ]÷") are escaped by a backslash (\)"
-Enclose the string in single-quotes (
-					     [ ]÷'): Another string literal. Single quote characters (\') require escaping by a backslash (\-d). Double quote characters (
+					   
+					      [ |![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)|]÷")\') require escaping by a backslash (\-d). Double quote characters (
 					      ") do not require escaping.
 In:
 	
@@ -150,15 +148,7 @@ In:
 
 Raw string literals
 Raw string SL4A also jira
-	 supported:
-	
-	
-	
-	
-	. In this form, the backslash character (\) stands for itself, and does not denote an escape sequence.
-
-Enclosed in double-quotes(""): @"<
-#16 × 5=" html & luapage image body discuss";
+	 supported:  16 × 5=" html & luapage image body discuss";
 >
 Enclose in single-quotes('):
 @'This is a raw string literal'
@@ -176,7 +166,8 @@ Value	length of time
 1.5h	1.5 hour
 30m	30 minutes
 10s	10 seconds
-timespan(15s)	15 seconds
+timespan(15s)	
+	15 seconds
 0.1s	0.1 second
 timespan(2d)	2 days
 
@@ -213,3 +204,20 @@ Copyright © 2022 Axiom, Inc. All rights reserved.
 
 
 Scalar data types.(023bc)
+
+	
+	
+	
+	
+	. In this form, the backslash character (\) stands for itself, and does not denote an escape sequence.
+
+Enclosed in double-quotes(": "This is a string literal. Single quote characters (') don't require escaping. Double quote characters (\ -d
+					     
+					      
+					      [|![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)| ]÷") are escaped by a backslash (\)"
+Enclose the string in single-quotes (
+					     
+					      
+					      [|![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)| ]÷'): Another string literal. Single quote characters (): @"
+					      <
+#
