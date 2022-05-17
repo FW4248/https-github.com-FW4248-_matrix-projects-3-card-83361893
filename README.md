@@ -1,13 +1,29 @@
-![images (36)](https://user-images.githubusercontent.com/104608815/168704965-d9d9c116-cde7-4ac3-860a-0519e4914fcd.png)
-![images (15)](https://user-images.githubusercontent.com/104608815/168705062-dd9638d1-39bc-4a5d-87a7-06cb3e1fc709.jpeg)
-![images (17)](https://user-images.githubusercontent.com/104608815/168705064-59664023-ce89-4206-a464-390c2e29d4d0.png)
-![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)
-![images (7)](https://user-images.githubusercontent.com/104608815/168705069-aa8b2cb7-12bf-4b2b-8801-3945b9e11084.jpeg)
-![images (5)](https://user-images.githubusercontent.com/104608815/168705071-8740c61a-c171-41e3-98b8-b471c9e48b1e.jpeg)
-![images (10)](https://user-images.githubusercontent.com/104608815/168705072-9e2b478c-901b-42c2-9a66-81dbc80c8410.png)
-![images (8)](https://user-images.githubusercontent.com/104608815/168705073-705dc7cf-61e4-4faa-b4c3-f4ab08eeebb0.png)
-![images (7)](https://user-images.githubusercontent.com/104608815/168705078-d25c41bf-7fe1-4bfe-920d-b7eceff7dd26.png)
-![images (3)](https://user-images.githubusercontent.com/104608815/168705080-44a8f2ea-136e-44fd-9892-ec7ce0ffe77f.jpeg)
+
+## </
+     
+                   
+		   
+||--|![images (36)](https://user-images.githubusercontent.com/104608815/168704965-d9d9c116-cde7-4ac3-860a-0519e4914fcd.png)|
+|;/
+|![images (15)](https://user-images.githubusercontent.com/104608815/168705062-dd9638d1-39bc-4a5d-87a7-06cb3e1fc709.jpeg)|.(#dynamic values01ab)
+|:/
+|![images (17)](https://user-images.githubusercontent.com/104608815/168705064-59664023-ce89-4206-a464-390c2e29d4d0.png)|
+
+|![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)|
+
+|![images (7)](https://user-images.githubusercontent.com/104608815/168705069-aa8b2cb7-12bf-4b2b-8801-3945b9e11084.jpeg)|
+
+|![images (5)](https://user-images.githubusercontent.com/104608815/168705071-8740c61a-c171-41e3-98b8-b471c9e48b1e.jpeg)|
+
+|![images (10)](https://user-images.githubusercontent.com/104608815/168705072-9e2b478c-901b-42c2-9a66-81dbc80c8410.png)|
+
+|![images (8)](https://user-images.githubusercontent.com/104608815/168705073-705dc7cf-61e4-4faa-b4c3-f4ab08eeebb0.png)|.(scalar data types 023bc)
+|:/
+|![images (7)](https://user-images.githubusercontent.com/104608815/168705078-d25c41bf-7fe1-4bfe-920d-b7eceff7dd26.png)|.(1214984904900)
+
+|![images (3)](https://user-images.githubusercontent.com/104608815/168705080-44a8f2ea-136e-44fd-9892-ec7ce0ffe77f.jpeg)|
+
+/>
 # 1411275
 1214984904900
 Docs
@@ -84,7 +100,7 @@ A property bag, holding zero or more key-value pairs.
 Dynamic literals
 A literal of type dynamic looks like this:
 
-dynamic (Value)
+dynamic (Value 01ab)
 
 Value can be:
 
@@ -107,7 +123,7 @@ Literals of the long data type can be specified in the following syntax:
 
 long(Value)
 
-Where Value can take the following forms:
+Where Value can take the following forms:<div
 
 One more or digits, in which case the literal value is the decimal representation of these digits. For example, long(11) is the number eleven of type long.
 A minus (-) sign followed by one or more digits. For example, long(-3) is the number minus three of type long.
@@ -128,7 +144,7 @@ In the two representations above, the backslash (\) character indicates escaping
 Raw string literals
 Raw string literals are also supported. In this form, the backslash character (\) stands for itself, and does not denote an escape sequence.
 
-Enclosed in double-quotes(""): @"This is a raw string literal"
+Enclosed in double-quotes(""): @"<#16 × 5=" html & luapage image body discuss";>
 Enclose in single-quotes('): @'This is a raw string literal'
 Raw strings are particularly useful for regexes where you can use @"^[\d]+$" instead of "^[\d]+$"
 
@@ -178,4 +194,4 @@ Twitter
 Copyright © 2022 Axiom, Inc. All rights reserved.
 
 
-Scalar data types
+Scalar data types.(023bc)
