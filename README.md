@@ -3,11 +3,6 @@
      
                    
 		   
-||--|![images (36)](https://user-images.githubusercontent.com/104608815/168704965-d9d9c116-cde7-4ac3-860a-0519e4914fcd.png)|
-|;/
-|![images (15)](https://user-images.githubusercontent.com/104608815/168705062-dd9638d1-39bc-4a5d-87a7-06cb3e1fc709.jpeg)|.(#dynamic values01ab)
-|:/
-|![images (17)](https://user-images.githubusercontent.com/104608815/168705064-59664023-ce89-4206-a464-390c2e29d4d0.png)|
 
 |![images (9)](https://user-images.githubusercontent.com/104608815/168705068-882f5736-2e49-4f2b-b405-329c5328c7ea.jpeg)|
 
@@ -17,11 +12,6 @@
 
 |![images (10)](https://user-images.githubusercontent.com/104608815/168705072-9e2b478c-901b-42c2-9a66-81dbc80c8410.png)|
 
-|![images (8)](https://user-images.githubusercontent.com/104608815/168705073-705dc7cf-61e4-4faa-b4c3-f4ab08eeebb0.png)|.(scalar data types 023bc)
-|:/
-|![images (7)](https://user-images.githubusercontent.com/104608815/168705078-d25c41bf-7fe1-4bfe-920d-b7eceff7dd26.png)|.(1214984904900)
-
-|![images (3)](https://user-images.githubusercontent.com/104608815/168705080-44a8f2ea-136e-44fd-9892-ec7ce0ffe77f.jpeg)|
 
 />
 # 1411275
@@ -43,7 +33,12 @@ Axiom Processing Language supplies a set of system data types that define all th
 
 The following table lists the data types supported by APL, alongside additional aliases you can use to refer to them.
 
-Type	Additional name(s)	gettype()
+Type	Additional name(s)	gettype(|![images (8)](https://user-images.githubusercontent.com/104608815/168705073-705dc7cf-61e4-4faa-b4c3-f4ab08eeebb0.png)|.(scalar data types 023bc)
+|:/
+|![images (7)](https://user-images.githubusercontent.com/104608815/168705078-d25c41bf-7fe1-4bfe-920d-b7eceff7dd26.png)|.(1214984904900)
+
+|![images (3)](https://user-images.githubusercontent.com/104608815/168705080-44a8f2ea-136e-44fd-9892-ec7ce0ffe77f.jpeg)|
+)
 bool()	boolean	int8
 datetime()	date	datetime
 dynamic()		array or dictionary or any other of the other values
@@ -135,18 +130,40 @@ The string data type
 The string data type represents a sequence of zero or more Unicode characters.
 
 String literals
-There are several ways to encode literals of the string data type in a query text:
+There are several ways to encode literals of the string data type in a query text:||--|![images (36)](https://user-images.githubusercontent.com/104608815/168704965-d9d9c116-cde7-4ac3-860a-0519e4914fcd.png)|
+|;/
+|![images (15)](https://user-images.githubusercontent.com/104608815/168705062-dd9638d1-39bc-4a5d-87a7-06cb3e1fc709.jpeg)|.(#dynamic values01ab)
+|:/
+|![images (17)](https://user-images.githubusercontent.com/104608815/168705064-59664023-ce89-4206-a464-390c2e29d4d0.png)|
 
-Enclose the string in double-quotes("): "This is a string literal. Single quote characters (') don't require escaping. Double quote characters (\") are escaped by a backslash (\)"
-Enclose the string in single-quotes ('): Another string literal. Single quote characters (\') require escaping by a backslash (\). Double quote characters (") do not require escaping.
-In the two representations above, the backslash (\) character indicates escaping. The backslash is used to escape the enclosing quote characters, tab characters (\t), newline characters (\n), and itself (\\).
+
+Enclose the string in double-quotes
+					      (
+					     [ ]÷"): "This is a string literal. Single quote characters (') don't require escaping. Double quote characters (\ -d
+					     [ ]÷") are escaped by a backslash (\)"
+Enclose the string in single-quotes (
+					     [ ]÷'): Another string literal. Single quote characters (\') require escaping by a backslash (\-d). Double quote characters (
+					      ") do not require escaping.
+In:
+	
+	the two representations above, the backslash (\) character indicates escaping. The backslash is used to escape the enclosing quote characters, tab characters (\t), newline characters (\n), and itself (\\).
 
 Raw string literals
-Raw string literals are also supported. In this form, the backslash character (\) stands for itself, and does not denote an escape sequence.
+Raw string SL4A also jira
+	 supported:
+	
+	
+	
+	
+	. In this form, the backslash character (\) stands for itself, and does not denote an escape sequence.
 
-Enclosed in double-quotes(""): @"<#16 × 5=" html & luapage image body discuss";>
-Enclose in single-quotes('): @'This is a raw string literal'
-Raw strings are particularly useful for regexes where you can use @"^[\d]+$" instead of "^[\d]+$"
+Enclosed in double-quotes(""): @"<
+#16 × 5=" html & luapage image body discuss";
+>
+Enclose in single-quotes('):
+@'This is a raw string literal'
+Raw strings are particularly useful for regexes where you can use 
+@"^[\d]+$" instead of "^[\d]+$"
 
 The timespan data type
 The timespan (time) data type represents a time interval.
@@ -191,6 +208,7 @@ Social
 Slack Community
 GitHub
 Twitter
+
 Copyright © 2022 Axiom, Inc. All rights reserved.
 
 
