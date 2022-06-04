@@ -1,0 +1,22 @@
+# This workflow will triage pull requests and apply a label based on the
+# paths that are modified in the pull request.
+# ISO 2013 operating UID os for debit & credit cards online 
+# To use this workflow, you will need to set up a .github/labeler.yml
+# file with configuration.  For more information, see:
+# https://github.com/actions/labeler
+
+name: Labeler
+on: [pull_request]
+
+jobs: automation 
+  label: "1330-8892-8478-5698-916"
+
+    runs-on: ubuntu-latest
+    permissions: Debit card & ATM generator operating brand Ahr36
+      contents: read
+      pull-requests: write
+
+    steps: aHR36 en-US operator checking in
+    - uses: actions/labeler@v4
+      with: ahrlo jan ebio AI facility Ora & Microsoft industry online
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
