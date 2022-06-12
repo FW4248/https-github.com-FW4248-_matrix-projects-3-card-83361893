@@ -16,22 +16,12 @@ push: _matrix
    :|
      |:[ 1484847444564456427584-m-git-remote-set-head-origin-aaa ]   
      
+     .gthub:
     
-     github: 001 branch 
-     
-     github: 002 branch
-     
-     github: 003 branch
-     
-     github: 004 branch
-     
-     
-     053d309f7ecfeca5bd283e7e31d78d4808569ebe
-    
-     | < ---
-     Close: |< ---
-     | < ---
-     Close: |< ---
+     |
+     Close: |
+     |
+     Close: |
   
   pull_request:
     branches: [ 1484847444564456427584-m-git-remote-set-head-origin-aaa ]
