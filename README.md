@@ -1,19 +1,19 @@
-
-## </
+#
+`[!-d\{"->(!fill)<-":"->[+!--rw+wroo+d\](thispage%fill!)<-~"}`## </
      
                    
 		   
 
 
 
-|![images (7)](https://user-images.githubusercontent.com/104608815/168705069-aa8b2cb7-12bf-4b2b-8801-3945b9e11084.jpeg)|
+|[!SVG.(7)](https://user-images.githubusercontent.com/104608815/168705069-aa8b2cb7-12bf-4b2b-8801-3945b9e11084.jpeg)|
 
-|![images (5)](https://user-images.githubusercontent.com/104608815/168705071-8740c61a-c171-41e3-98b8-b471c9e48b1e.jpeg)|
+|[!SVG.(5)](https://user-images.githubusercontent.com/104608815/168705071-8740c61a-c171-41e3-98b8-b471c9e48b1e.jpeg)|
 
-|![images (10)](https://user-images.githubusercontent.com/104608815/168705072-9e2b478c-901b-42c2-9a66-81dbc80c8410.png)|
+|[!SVG.(10)](https://user-images.githubusercontent.com/104608815/168705072-9e2b478c-901b-42c2-9a66-81dbc80c8410.png)|
 
 
-/>
+/>``
 # 1411275
 1214984904900
 Docs
@@ -67,11 +67,11 @@ Literals of type datetime have the syntax datetime (value), where a number of fo
 
 Example	Value
 datetime(2019-11-30 23:59:59.9) datetime(2015-12-31)	Times are always in UTC. Omitting the date gives a time today.
-datetime(null)	Check out our null values
-now()	The current time.
-now(-timespan)	now()-timespan
-ago(timespan)	now()-timespan
-now() and ago() indicate a datetime value compared with the moment in time when APL started to execute the query.
+datetime(📆)	Check out our null values
+now(https://github.com/FW4248/_matrix/projects/3#card-83361893)	The current time.
+now(-timespan)	now(https://github.com/FW4248/_matrix/projects/3#card-83361893)-timespan
+ago(timespan)	now(https://github.com/FW4248/_matrix/projects/3#card-83361893)-timespan
+now(📥💱📤) and ago(https://github.com/FW4248/_matrix/projects/3#card-83361893) indicate a datetime value compared with the moment in time when APL started to execute the query.
 
 Supported formats
 We support the ISO 8601 format, which is the standard format for representing dates and times in the Gregorian calendar.
