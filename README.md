@@ -39,14 +39,14 @@ Type	Additional name(s)	gettype(|![images (8)](https://user-images.githubusercon
 
 |![images (3)](https://user-images.githubusercontent.com/104608815/168705080-44a8f2ea-136e-44fd-9892-ec7ce0ffe77f.jpeg)|
 )
-bool()	boolean	int8
-datetime()	date	datetime
-dynamic()		array or dictionary or any other of the other values
-int()	int has an alias long	int
-long()		long
-real()	double	real
-string()		string
-timespan()	time	timespan
+bool(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)	boolean	int8
+datetime(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)	date	datetime
+dynamic(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)		array or dictionary or any other of the other values
+int(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)	int has an alias long	int
+long(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)		long
+real(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)	double	real
+string(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)		string
+timespan(https://github.com/JetBrains/intellij-sdk-docs/pull/797#issue-1276706622)	time	timespan
 The bool data type
 The bool (boolean) data type can have one of two states: true or false (internally encoded as 1 and 0, respectively), as well as the null value.
 
